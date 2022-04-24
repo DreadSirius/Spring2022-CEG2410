@@ -6,9 +6,9 @@ Total: / 29
 
 - Configuring a Windows Server to be a Domain Controller
   - Outline of basic steps, resource(s) used
-- Domain Name:
-- Domain Controller Name:
-- Domain DNS IP:
+- Domain Name: ad.curry.org
+- Domain Controller Name: DC1
+- Domain DNS IP: 10.0.0.10
 
 ## AD Structure ( / 15)
 
